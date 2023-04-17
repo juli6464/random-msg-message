@@ -1,0 +1,27 @@
+{
+  "name": "random-msg-message",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juli6464/random-msg-message.git"
+  },
+  "keywords": [],
+  "author": "Julian Alzate <julianalzate046@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juli6464/random-msg-message/issues"
+  },
+  "homepage": "https://github.com/juli6464/random-msg-message#readme",
+  "bin": {
+    "random-msg-message": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
